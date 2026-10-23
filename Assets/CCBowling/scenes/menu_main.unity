@@ -1159,9 +1159,73 @@ PrefabInstance:
       value: -12.5632105
       objectReference: {fileID: 0}
     - target: {fileID: 3577676013027005397, guid: 78abb65558af56545851570655ccd667, type: 3}
+      propertyPath: m_Colors.m_FadeDuration
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577676013027005397, guid: 78abb65558af56545851570655ccd667, type: 3}
+      propertyPath: m_Colors.m_PressedColor.b
+      value: 0.105882354
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577676013027005397, guid: 78abb65558af56545851570655ccd667, type: 3}
+      propertyPath: m_Colors.m_PressedColor.g
+      value: 0.99607843
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577676013027005397, guid: 78abb65558af56545851570655ccd667, type: 3}
+      propertyPath: m_Colors.m_PressedColor.r
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577676013027005397, guid: 78abb65558af56545851570655ccd667, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.b
+      value: 0.105882354
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577676013027005397, guid: 78abb65558af56545851570655ccd667, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.g
+      value: 0.99607843
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577676013027005397, guid: 78abb65558af56545851570655ccd667, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.r
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577676013027005397, guid: 78abb65558af56545851570655ccd667, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577676013027005397, guid: 78abb65558af56545851570655ccd667, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.g
+      value: 0.5613208
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577676013027005397, guid: 78abb65558af56545851570655ccd667, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.r
+      value: 0.79608685
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577676013027005397, guid: 78abb65558af56545851570655ccd667, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577676013027005397, guid: 78abb65558af56545851570655ccd667, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577676013027005397, guid: 78abb65558af56545851570655ccd667, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1655848742}
+    - target: {fileID: 3577676013027005397, guid: 78abb65558af56545851570655ccd667, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Target
       value: 
       objectReference: {fileID: 1655848742}
+    - target: {fileID: 3577676013027005397, guid: 78abb65558af56545851570655ccd667, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: ChangeScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577676013027005397, guid: 78abb65558af56545851570655ccd667, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: CCBowling.SceneChanger, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577676013027005397, guid: 78abb65558af56545851570655ccd667, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_StringArgument
+      value: bowling_level1
+      objectReference: {fileID: 0}
     - target: {fileID: 3783368541051285940, guid: 78abb65558af56545851570655ccd667, type: 3}
       propertyPath: m_AnchorMax.y
       value: 1
